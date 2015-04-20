@@ -1,0 +1,22 @@
+{
+  "name": "mysqltest",
+  "version": "1.0.0",
+  "description": "mysql 练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantomS4/mysqltest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomS4/mysqltest/issues"
+  },
+  "homepage": "https://github.com/phantomS4/mysqltest",
+  "dependencies": {
+    "mysql": "^2.6.2"
+  }
+}
